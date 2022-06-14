@@ -56,7 +56,11 @@ header nav ul li a {
   background-position: center;
   position: relative;
 }
-/* Hero Style End */
+
+.hero-secondary {
+  background-color: black;
+  color:#fce138;
+}
 
 .hero-form {
   border: 3px solid #024e76;
